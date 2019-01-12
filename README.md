@@ -10,6 +10,7 @@
 * [sandbox 1: working post](https://codesandbox.io/s/5x35wm80kl)
 * [sandbox 2: refactored post](https://codesandbox.io/s/zr2wx9myvl)
 * [sandbox 3: get records and schema](https://codesandbox.io/s/j2lz21p99y)
+* [sandbox 4: put](https://codesandbox.io/s/qxo1pyy2p9)
 
 ### Modules
 #### `modulename.js`

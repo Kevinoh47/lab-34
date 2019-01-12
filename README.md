@@ -1,15 +1,15 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 34: Remote Crud with React+Redux
 
-### Author: Student/Group Name
+### Kevin O'Halloran
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/Kevinoh47/lab-34)
+* [sandbox 1: working post](https://codesandbox.io/s/5x35wm80kl)
+* [sandbox 2: refactored post](https://codesandbox.io/s/zr2wx9myvl)
+* [sandbox 3: get records and schema](https://codesandbox.io/s/j2lz21p99y)
 
 ### Modules
 #### `modulename.js`
